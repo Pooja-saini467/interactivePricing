@@ -29,7 +29,7 @@
 ## Links
 
 - Video Link
-https://drive.google.com/file/d/14b1YmqnM94J7b0aT6g78I5GaGSnWH7Ks/view?usp=sharing
+- https://drive.google.com/file/d/14b1YmqnM94J7b0aT6g78I5GaGSnWH7Ks/view?usp=sharing
 
 ## My Process
 ## Build With
@@ -39,8 +39,11 @@ https://drive.google.com/file/d/14b1YmqnM94J7b0aT6g78I5GaGSnWH7Ks/view?usp=shari
 - javascript
 
 ## Author
-- Website Url:- pooja saini("https://www.linkedin.com/posts/pooja-saini-a8239a1a4_30daysofcodechallenge-frontendmentor-bootcamp-activity-6901907937267105792-MBXE")
-- Live Url:- Pooja-saini467("https://lnkd.in/erW9PV9V")
-- Twitter:- @Pooja96490259("https://twitter.com/home")
+- Website Url 
+- pooja saini https://www.linkedin.com/posts/pooja-saini-a8239a1a4_30daysofcodechallenge-frontendmentor-bootcamp-activity-6901907937267105792-MBXE
+- Live Url
+- Pooja-saini467 https://lnkd.in/erW9PV9V
+- Twitter
+-  @Pooja96490259 https://twitter.com/home
 
 
