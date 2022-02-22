@@ -26,4 +26,9 @@
 
 <img src = "https://github.com/Pooja-saini467/interactivePricing/blob/main/design/desktop-design.jpg?raw=true">
 
+## Links
+
+- Video Link
+("https://drive.google.com/file/d/14b1YmqnM94J7b0aT6g78I5GaGSnWH7Ks/view?usp=sharing")
+
 
