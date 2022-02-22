@@ -13,15 +13,15 @@
   - [Built with](#built-with)
 - [Author](#author)
 
-##Overview
+## Overview
 
 
--View the optimal layout for the app depending on their device's screen size
+- View the optimal layout for the app depending on their device's screen size
 - See hover states for all interactive elements on the page
 - Use the slider and toggle to see prices for different page view numbers
--It is complete responsive.
+- It is complete responsive.
 
-##Screenshot
+## Screenshot
 
 
 <img src = "https://github.com/Pooja-saini467/interactivePricing/blob/main/design/desktop-design.jpg?raw=true">
