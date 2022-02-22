@@ -1,7 +1,5 @@
 # Frontend Mentor - Interactive pricing component
 
-![Design preview for the Interactive pricing component coding challenge](./design/desktop-preview.jpg)
-
 ## Welcome! 👋
 
 ## Table of contents
@@ -14,8 +12,6 @@
 - [Author](#author)
 
 ## Overview
-
-
 - View the optimal layout for the app depending on their device's screen size
 - See hover states for all interactive elements on the page
 - Use the slider and toggle to see prices for different page view numbers
@@ -23,8 +19,9 @@
 
 ## Screenshot
 
-
 <img src = "https://github.com/Pooja-saini467/interactivePricing/blob/main/design/desktop-design.jpg?raw=true">
+
+## Demo
 
 ## Links
 
@@ -42,8 +39,6 @@
 - Website Url 
 - pooja saini https://www.linkedin.com/posts/pooja-saini-a8239a1a4_30daysofcodechallenge-frontendmentor-bootcamp-activity-6901907937267105792-MBXE
 
- - Video Link
-- https://drive.google.com/file/d/14b1YmqnM94J7b0aT6g78I5GaGSnWH7Ks/view?usp=sharing
  
 - Twitter
 -  @Pooja96490259 https://twitter.com/home
