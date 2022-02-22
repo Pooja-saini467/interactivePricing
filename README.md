@@ -39,8 +39,8 @@
 - javascript
 
 ## Author
-- Website Url:-pooja saini("https://www.linkedin.com/posts/pooja-saini-a8239a1a4_30daysofcodechallenge-frontendmentor-bootcamp-activity-6901907937267105792-MBXE")
-- Live Url:-Pooja-saini467("https://lnkd.in/erW9PV9V")
-- Twitter:-@Pooja96490259("https://twitter.com/home")
+- Website Url:- pooja saini("https://www.linkedin.com/posts/pooja-saini-a8239a1a4_30daysofcodechallenge-frontendmentor-bootcamp-activity-6901907937267105792-MBXE")
+- Live Url:- Pooja-saini467("https://lnkd.in/erW9PV9V")
+- Twitter:- @Pooja96490259("https://twitter.com/home")
 
 
