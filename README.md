@@ -22,6 +22,8 @@
 -It is complete responsive.
 
 ##Screenshot
-"https://github.com/Pooja-saini467/interactivePricing/blob/main/design/desktop-design.jpg?raw=true"
+
+
+<img src = "https://github.com/Pooja-saini467/interactivePricing/blob/main/design/desktop-design.jpg?raw=true">
 
 
