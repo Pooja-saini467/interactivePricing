@@ -28,8 +28,6 @@ https://user-images.githubusercontent.com/90523453/155204196-120efdbd-289a-4a7d-
 
 
 ## Links
-
-- Live Url
 - Pooja-saini467 https://lnkd.in/erW9PV9V
 
 ## My Process
